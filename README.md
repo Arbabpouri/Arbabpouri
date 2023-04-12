@@ -5,7 +5,7 @@
 [![](https://skillicons.dev/icons?i=python,django,fastapi,flask,dart,flutter,ts,js)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=qt,html,css,bootstrap,sass)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=linux,bash,regex)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=selenium,github,docker](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=selenium,github,docker)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb)](https://skillicons.dev)<br />
 
 # 📌 Editor
