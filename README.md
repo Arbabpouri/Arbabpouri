@@ -2,16 +2,16 @@
  
  
 # 💻 Skills 
-[![](https://skillicons.dev/icons?i=python,django,fastapi,flask)](https://skillicons.dev)<br/>
-[![](https://skillicons.dev/icons?i=ts,js)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=python,django,fastapi,flask,pytorch,selenium,qt)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=ts,js,react)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)<br/>
-[![](https://skillicons.dev/icons?i=qt,html,css,bootstrap,sass)](https://skillicons.dev)<br/>
-[![](https://skillicons.dev/icons?i=linux,bash,regex)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=selenium,github,docker)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=html,css,bootstrap,sass)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=linux,bash,powershell)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=postman,git,github,docker,regex)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb)](https://skillicons.dev)<br />
 
 # 📌 Editor
-[![](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=vscode,vim,atom,androidstudio)](https://skillicons.dev)<br />
  
 
 # 💫 About Me:
