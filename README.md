@@ -4,7 +4,7 @@
 # 💻 Skills 
 [![](https://skillicons.dev/icons?i=python,django,fastapi,flask,pytorch,selenium,qt)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)<br/>
-[![](https://skillicons.dev/icons?i=html5,css3,sass,bootstrap)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=html,css,sass,bootstrap)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=linux,bash,powershell)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=postman,git,github,regex)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb)](https://skillicons.dev)<br />
