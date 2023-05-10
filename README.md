@@ -2,7 +2,9 @@
  
  
 # 💻 Skills 
-[![](https://skillicons.dev/icons?i=python,django,fastapi,flask,ts,js)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=python,django,fastapi,flask)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=ts,js)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=qt,html,css,bootstrap,sass)](https://skillicons.dev)<br/>
 [![](https://skillicons.dev/icons?i=linux,bash,regex)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=selenium,github,docker)](https://skillicons.dev)<br />
