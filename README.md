@@ -3,9 +3,8 @@
  
 # 💻 Skills 
 [![](https://skillicons.dev/icons?i=python,CS,go,html,css)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex,docker,git.github)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=selenium,regex,git,github)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=selenium,regex,git,github)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)<br />
 
 # 📌 Editor
