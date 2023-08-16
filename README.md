@@ -2,11 +2,11 @@
  
  
 # 💻 Skills 
-[![](https://skillicons.dev/icons?i=python,cs,go,html,css)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=python,CS,go,html,css)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex,docker,git.github)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=selenium,regex,git,github)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=selenium,regex,git,github)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,mariadb,postgresql)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)<br />
 
 # 📌 Editor
 [![](https://skillicons.dev/icons?i=vscode,vim,atom)](https://skillicons.dev)<br />
