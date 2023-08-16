@@ -3,9 +3,12 @@
  
 # 💻 Skills 
 [![](https://skillicons.dev/icons?i=python,cs,dotnet,golang,html,css)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex)](https://skillicons.dev)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) <br />
 [![](https://skillicons.dev/icons?i=docker,git,github,linux,powershell,postman)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql)](https://skillicons.dev)<br />
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<br />
 
 # 📌 Editor
 [![](https://skillicons.dev/icons?i=vscode,VisualStudio,atom)](https://skillicons.dev)<br />
