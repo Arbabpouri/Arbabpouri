@@ -8,7 +8,7 @@
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql)](https://skillicons.dev)<br />
 
 # 📌 Editor
-[![](https://skillicons.dev/icons?i=vscode,visualstudio-dark,atom)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=vscode,VisualStudio,atom)](https://skillicons.dev)<br />
  
 
 # 💫 About Me:
