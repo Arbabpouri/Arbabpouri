@@ -11,7 +11,7 @@
 <br />
 
 # 📌 Editor
-[![](https://skillicons.dev/icons?i=visualstudio,vscode,atom)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=androidstudio,vscode)](https://skillicons.dev)<br />
  
 
 # 💫 About Me:
