@@ -9,13 +9,16 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <br />
-
-# 📌 Editor
-[![](https://skillicons.dev/icons?i=androidstudio,vscode)](https://skillicons.dev)<br />
  
 
 # 💫 About Me:
-i'm mohammad mehdi arbabpouri 👨‍💻.<br>i'm a programmer from iran 🇮🇷.<br>I love my work 💻.<br>
+<h2 align="center">Hi 👋! My name is Mohammad.A Felegari and I'm an ASP & React developer, from Iran</h2>
+
+###
+
+<h4 align="left">✔Clean Code<br>✔SOLID & Design Patterns<br>✔Testing the Application<br>✔Teamwork</h4>
+
+###
 
 [![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/19901285/mohammadmahdi-arbabpouri)
 [![](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Mohammad_Arbabpouri)
