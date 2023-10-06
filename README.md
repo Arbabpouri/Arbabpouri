@@ -2,7 +2,7 @@
  
  
 # 💻 Skills 
-[![](https://skillicons.dev/icons?i=python,golang,html,css)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=python,js,ts,html,css)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=git,github,linux,postman)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql)](https://skillicons.dev)<br />
@@ -12,7 +12,7 @@
  
 
 # 💫 About Me:
-<h2 align="center">Hi 👋! My name is MohammadMahdi Arbabpouri and I'm an Back-End (Python, Go) developer, from Iran</h2>
+<h2 align="center">Hi 👋! My name is MohammadMahdi Arbabpouri and I'm an Back-End developer, from Iran</h2>
 
 ###
 
