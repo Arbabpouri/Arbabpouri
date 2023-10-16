@@ -2,7 +2,7 @@
  
  
 # 💻 Skills 
-[![](https://skillicons.dev/icons?i=python,go,html,css,dart)](https://skillicons.dev) # learn dart<br />
+[![](https://skillicons.dev/icons?i=python,go,html,css,dart(#Learn)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=django,flask,fastapi,selenium,regex)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=git,github,linux,postman)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql)](https://skillicons.dev)<br />
