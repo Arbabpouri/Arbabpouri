@@ -7,7 +7,7 @@
 [![](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql)](https://skillicons.dev)<br />
 [![](https://skillicons.dev/icons?i=vscode,pycharm,clion)](https://skillicons.dev)<br />
-[![](https://skillicons.dev/icons?i=linux,mint,kali,windows)](https://skillicons.dev)<br />
+[![](https://skillicons.dev/icons?i=windows,linux,mint,kali,ubuntu)](https://skillicons.dev)<br />
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <br />
