@@ -19,7 +19,7 @@ jobs:
 
       # Generate the snake animation
       - name: Generate Snake GIF and SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: Arbabpouri
@@ -30,7 +30,7 @@ jobs:
       - name: Git Status
         run: git status
 
-      # Push changes to master (if needed)
+      # Push changes to master (optional, only if needed)
       - name: Push Changes to Master
         uses: ad-m/github-push-action@master
         with:
