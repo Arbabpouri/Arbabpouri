@@ -16,9 +16,8 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: Arbabpouri
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
           
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
