@@ -15,13 +15,16 @@ jobs:
         with:
           ref: output
 
-      - name: Generate snake animation
+      - name: Generate dark snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Arbabpouri
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+          color_snake: 3B82F6
+          color_dots: 1F2937
+          color_line: 374151
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
