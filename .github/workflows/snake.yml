@@ -1,9 +1,11 @@
-name: Generate Dark Snake
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [ output ]
 
 jobs:
   build:
@@ -13,15 +15,13 @@ jobs:
         with:
           ref: output
 
-      - name: Generate dark snake
-        uses: MartinHeinz/snk@master
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Arbabpouri
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: "59,130,246"
-          dot_color: "31,41,55"
-          border_color: "55,65,81"
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
